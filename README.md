@@ -25,7 +25,7 @@ To install the command line tool (`sdtt`), include the `-g` (global) flag when i
 ### Command Line Interface
 
 ```
-Usage: sdtt --url <url> [--presets <presets>] [--schemas <schemas]
+Usage: sdtt --url <url> [--presets <presets>] [--schemas <schemas>]
 
 Options:
   -u, --url      Inspect a URL
